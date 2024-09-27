@@ -1,0 +1,18 @@
+0.why incrementing y decrease the player position 
+1. how to add sound effect in sfml
+2. explain the working of window.open in sfml 
+3. how events works in sfml 
+4, what colors are present in default in sf :: Color 
+5. how to realTime change the ongoing running background music in sfml
+6. what is rectsize in sfml
+& how to add text in sfml
+8 how to add font   in sfml 
+9 .ttf font file not loading , possible reasons  in sfml 
+10 . how to change brightness of game  in sfml 
+11. how to change opacity of the sprite   in sfml 
+12 how smooth transition can be achieved in sfml
+13 how to take Inputs in sfml 
+14 explain file handling 
+15 how to draw rectangle in sfml
+16 how to set boundary color in sfml
+17 how to use sf:: keyboard
